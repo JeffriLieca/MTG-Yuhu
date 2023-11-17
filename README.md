@@ -53,8 +53,7 @@ Popup Interaction
 
 Deck Card
 
-<img width="386" alt="image" src="https://github.com/JeffriLieca/MTG_YUHU/assets/95264893/6d7b9c99-4509-4925-b11b-735091bc9d0e">
-![Simulator Screenshot - iPhone 15 Pro - 2023-11-17 at 23 05 02](https://github.com/JeffriLieca/MTG-Yuhu/assets/95264893/36750087-c655-4723-9d5c-9369181c4de2)
+<img width="386" alt="image" src="https://github.com/JeffriLieca/MTG_YUHU/assets/95264893/6d7b9c99-4509-4925-b11b-735091bc9d0e"><img width="393" alt="image" src="https://github.com/JeffriLieca/MTG-Yuhu/assets/95264893/f27ba1e4-0650-41bf-b7e7-a179e9e6bcd8">
 
 
 
