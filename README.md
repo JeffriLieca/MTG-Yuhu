@@ -53,7 +53,8 @@ Popup Interaction
 
 Deck Card
 
-<img width="386" alt="image" src="https://github.com/JeffriLieca/MTG_YUHU/assets/95264893/6d7b9c99-4509-4925-b11b-735091bc9d0e"><img width="393" alt="image" src="https://github.com/JeffriLieca/MTG-Yuhu/assets/95264893/f27ba1e4-0650-41bf-b7e7-a179e9e6bcd8">
+<img width="386" alt="image" src="https://github.com/JeffriLieca/MTG_YUHU/assets/95264893/6d7b9c99-4509-4925-b11b-735091bc9d0e">
+<img width="393" alt="image" src="https://github.com/JeffriLieca/MTG-Yuhu/assets/95264893/f27ba1e4-0650-41bf-b7e7-a179e9e6bcd8">
 
 
 
